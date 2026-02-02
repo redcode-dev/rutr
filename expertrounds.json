@@ -1,0 +1,15 @@
+[
+  {
+    "roundname": "R1",
+    "filename": "_r1_accepted_raw_data.csv"
+  },
+  {
+    "roundname": "R2",
+    "filename": "_r2_accepted_raw_data.csv"
+  },
+    {
+    "roundname": "R3",
+    "filename": "_r3_accepted_raw_data.csv"
+  }
+
+]

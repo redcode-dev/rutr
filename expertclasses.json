@@ -1,0 +1,123 @@
+[
+  {
+    "wheel":20,
+    "max": 99,
+    "name": "Superclass Women",
+    "min": 14
+  },
+  {
+    "wheel": 20,
+    "max": 99,
+    "name": "Superclass",
+    "min": 14
+  },
+  {
+    "wheel": 20,
+    "max": 99,
+    "name": "Superclass Junior",
+    "min": 14
+  },
+  {
+    "wheel": 20,
+    "max": 8,
+    "name": "Expert Girls 5-8",
+    "min": 4
+  },
+  {
+    "wheel": 20,
+    "max": 10,
+    "name": "Expert Girls 9-10",
+    "min": 9
+  },
+  {
+    "wheel": 20,
+    "max": 12,
+    "name": "Expert Girls 11-12",
+    "min": 11
+  },
+  {
+    "wheel": 20,
+    "max": 14,
+    "name": "Expert Girls 13-14",
+    "min": 13
+  },
+  {
+    "wheel": 20,
+    "max": 99,
+    "name": "Expert Women 15+",
+    "min": 14
+  },
+  {
+    "wheel": 20,
+    "max": 6,
+    "name": "Expert Boys 6 & Under",
+    "min": 4
+  },
+  {
+    "wheel": 20,
+    "max": 8,
+    "name": "Expert Boys 7-8",
+    "min": 7
+  },
+  {
+    "wheel": 20,
+    "max": 10,
+    "name": "Expert Boys 9-10",
+    "min": 9
+  },
+  {
+    "wheel": 20,
+    "max": 12,
+    "name": "Expert Boys 11-12",
+    "min": 11
+  },
+  {
+    "wheel": 20,
+    "max": 14,
+    "name": "Expert 13-14",
+    "min": 13
+  },
+  {
+    "wheel": 20,
+    "max": 16,
+    "name": "Expert 15-16",
+    "min": 15
+  },
+  {
+    "wheel": 20,
+    "max": 99,
+    "name": "Expert 17-29",
+    "min": 16
+  },
+  {
+    "wheel": 20,
+    "max": 99,
+    "name": "Masters",
+    "min": 21
+  },
+  {
+    "wheel": 24,
+    "max": 99,
+    "name": "Cruiser 15+ Women",
+    "min": 14
+  },
+  {
+    "wheel": 24,
+    "max": 99,
+    "name": "Supercruiser 15+",
+    "min": 14
+  },
+  {
+    "wheel": 24,
+    "max": 99,
+    "name": "Cruiser 30+ Women",
+    "min": 30
+  },
+  {
+    "wheel": 24,
+    "max": 99,
+    "name": "Supercruiser 30+",
+    "min": 30
+  }
+
+]
